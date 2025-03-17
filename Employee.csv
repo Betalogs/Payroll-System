@@ -1,0 +1,35 @@
+﻿Employee ID,Employee Name,Position,Basic Salary,Rice Subsidy,Phone Allowance,Clothing Allowance,Gross Semi-monthly Rate,Hourly Rate
+10001,Garcia Manuel III,Chief Executive Officer,90000,1500,2000,1000,45000,535.71
+10002,Lim Antonio,Chief Operating Officer,60000,1500,2000,1000,30000,357.14
+10003,Aquino Bianca Sofia,Chief Finance Officer,60000,1500,2000,1000,30000,357.14
+10004,Reyes Isabella,Chief Marketing Officer,60000,1500,2000,1000,30000,357.14
+10005,Hernandez Eduard,IT Operations and Systems,52670,1500,1000,1000,26335,313.51
+10006,Villanueva Andrea Mae,HR Manager,52670,1500,1000,1000,26335,313.51
+10007,San Jose Brad,HR Team Leader,42975,1500,800,800,21488,255.8
+10008,Romualdez Alice,HR Rank and File,22500,1500,500,500,11250,133.93
+10009,Atienza Rosie,HR Rank and File,22500,1500,500,500,11250,133.93
+10010,Alvaro Roderick,Accounting Head,52670,1500,1000,1000,26335,313.51
+10011,Salcedo Anthony,Payroll Manager,50825,1500,1000,1000,25413,302.53
+10012,Lopez Josie,Payroll Team Leader,38475,1500,800,800,19238,229.02
+10013,Farala Martha,Payroll Rank and File,24000,1500,500,500,12000,142.86
+10014,Martinez Leila,Payroll Rank and File,24000,1500,500,500,12000,142.86
+10015,Romualdez Fredrick,Account Manager,53500,1500,1000,1000,26750,318.45
+10016,Mata Christian,Account Team Leader,42975,1500,800,800,21488,255.8
+10017,De Leon Selena,Account Team Leader,41850,1500,800,800,20925,249.11
+10018,San Jose Allison,Account Rank and File,22500,1500,500,500,11250,133.93
+10019,Rosario Cydney,Account Rank and File,22500,1500,500,500,11250,133.93
+10020,Bautista Mark,Account Rank and File,23250,1500,500,500,11625,138.39
+10021,Lazaro Darlene,Account Rank and File,23250,1500,500,500,11625,138.39
+10022,Delos Santos Kolby,Account Rank and File,24000,1500,500,500,12000,142.86
+10023,Santos Vella,Account Rank and File,22500,1500,500,500,11250,133.93
+10024,Del Rosario Tomas,Account Rank and File,22500,1500,500,500,11250,133.93
+10025,Tolentino Jacklyn,Account Rank and File,24000,1500,500,500,12000,142.86
+10026,Gutierrez Percival,Account Rank and File,24750,1500,500,500,12375,147.32
+10027,Manalaysay Garfield,Account Rank and File,24750,1500,500,500,12375,147.32
+10028,Villegas Lizeth,Account Rank and File,24000,1500,500,500,12000,142.86
+10029,Ramos Carol,Account Rank and File,22500,1500,500,500,11250,133.93
+10030,Maceda Emelia,Account Rank and File,22500,1500,500,500,11250,133.93
+10031,Aguilar Delia,Account Rank and File,22500,1500,500,500,11250,133.93
+10032,Castro John Rafael,Sales & Marketing,52670,1500,1000,1000,26335,313.51
+10033,Martinez Carlos Ian,Supply Chain and Logistics,52670,1500,1000,1000,26335,313.51
+10034,Santos Beatriz,Customer Service and Relations,52670,1500,1000,1000,26335,313.51
